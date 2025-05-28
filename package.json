@@ -1,0 +1,21 @@
+{
+  "name": "mirror",
+  "version": "1.0.0",
+  "description": "A Node.js application to flip images horizontally",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "image",
+    "mirror",
+    "flip"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
